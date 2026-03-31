@@ -15,12 +15,10 @@ const Footer = () => {
 
   return (
     <footer className="bg-[#0B1221] text-slate-400 py-12 px-6">
-      {/* text-center যোগ করা হয়েছে স্মল ডিভাইসের জন্য, md:text-left বড় ডিভাইসের জন্য */}
       <div className="max-w-7xl mx-auto text-center md:text-left">
         <div className="grid grid-cols-1 md:grid-cols-6 gap-10 mb-12">
           
           {/* Brand Section */}
-          {/* items-center (mobile) এবং md:items-start (desktop) ব্যবহার করা হয়েছে */}
           <div className="md:col-span-2 flex flex-col items-center md:items-start">
             <h2 className="text-white text-3xl font-bold mb-4">DigiTools</h2>
             <p className="text-sm leading-relaxed max-w-xs">
