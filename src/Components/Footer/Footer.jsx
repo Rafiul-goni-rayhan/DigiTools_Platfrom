@@ -85,7 +85,7 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Bottom Bar */}
+        
         <div className="pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-xs gap-4">
           <p>© 2026 Digitools. All rights reserved.</p>
           <div className="flex gap-6 justify-center">
