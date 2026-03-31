@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Starter Resume Builder",
     "description": "Create professional resumes with beginner-friendly templates.",
-    "price": 0,
+    "price": 10,
     "period": "one-time",
     "tag": "new",
     "tagType": "new",
