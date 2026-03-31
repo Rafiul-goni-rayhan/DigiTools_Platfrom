@@ -50,7 +50,7 @@ const Footer = () => {
               Social Links
             </h3>
             <div className="flex gap-3 justify-center md:justify-start">
-              {/* Instagram */}
+           
               <a
                 href="#"
                 className="w-9 h-9 bg-white rounded-full flex items-center justify-center hover:bg-slate-200 transition-all"
