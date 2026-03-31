@@ -42,3 +42,4 @@ export default App;
 // git remote add origin https://github.com/Rafiul-goni-rayhan/DigiTools_Platfrom.git
 // git push -u origin main
 //git config --global alias.up '!git add . && git commit -m "update" && git push'
+//git up
