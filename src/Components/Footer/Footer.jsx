@@ -62,7 +62,7 @@ const Footer = () => {
                 </svg>
               </a>
 
-              {/* Facebook */}
+             
               <a
                 href="#"
                 className="w-9 h-9 bg-white rounded-full flex items-center justify-center hover:bg-slate-200 transition-all"
