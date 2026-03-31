@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Resume Builder",
+    "description": "Create professional resumes with beginner-friendly templates.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "10+ templates",
+      "Basic customization",
+      "Download as PDF"
+    ],
+    "icon": "FaFileAlt"
+  },
+  {
+    "id": 2,
+    "name": "Pro Resume Builder",
+    "description": "Advanced resume builder with ATS optimization tools.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF & DOCX"
+    ],
+    "icon": "FaUserTie"
+  },
+  {
+    "id": 3,
+    "name": "Portfolio Website Kit",
+    "description": "Build your personal portfolio website easily.",
+    "price": 19.99,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Responsive design",
+      "Custom domain support",
+      "SEO optimized"
+    ],
+    "icon": "FaGlobe"
+  },
+  {
+    "id": 4,
+    "name": "Job Tracker Pro",
+    "description": "Track job applications and manage interviews efficiently.",
+    "price": 4.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Application tracking",
+      "Interview reminders",
+      "Notes & feedback"
+    ],
+    "icon": "FaClipboardList"
+  },
+  {
+    "id": 5,
+    "name": "Cover Letter Generator",
+    "description": "Generate personalized cover letters instantly.",
+    "price": 7.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "AI-generated content",
+      "Multiple formats",
+      "Editable templates"
+    ],
+    "icon": "FaEnvelopeOpenText"
+  },
+  {
+    "id": 6,
+    "name": "Interview Prep Kit",
+    "description": "Prepare for interviews with curated questions and tips.",
+    "price": 14.99,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Common interview questions",
+      "Mock interview tips",
+      "HR & technical prep"
+    ],
+    "icon": "FaComments"
+  },
+  {
+    "id": 7,
+    "name": "LinkedIn Profile Booster",
+    "description": "Optimize your LinkedIn profile for better visibility.",
+    "price": 5.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Profile analysis",
+      "Keyword optimization",
+      "Headline suggestions"
+    ],
+    "icon": "FaLinkedin"
+  },
+  {
+    "id": 8,
+    "name": "Freelancer Starter Pack",
+    "description": "Everything you need to start freelancing online.",
+    "price": 24.99,
+    "period": "yearly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "Client proposal templates",
+      "Gig setup guide",
+      "Earning strategies"
+    ],
+    "icon": "FaLaptopCode"
+  }
+]
