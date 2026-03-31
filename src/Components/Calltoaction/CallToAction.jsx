@@ -24,7 +24,7 @@ const CallToAction = () => {
         </button>
       </div>
 
-      {/* Footer Benefits */}
+      
       <div className="text-sm md:text-base opacity-80 flex flex-wrap justify-center gap-2">
         <span>14-day free trial</span>
         <span className="hidden sm:inline">•</span>
